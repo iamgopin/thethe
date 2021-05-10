@@ -10,12 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-               Console.WriteLine("ok");
-            Console.WriteLine("pp");
-            Console.WriteLine("ok");
-            Console.WriteLine("pp");
-               Console.WriteLine("ok");
-            Console.WriteLine("pp");
+              
         }
     }
 }
