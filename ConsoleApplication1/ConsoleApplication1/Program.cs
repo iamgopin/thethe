@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-             Console.WriteLine("i have added this"); 
+             Console.WriteLine("i have added this");
+            Console.WriteLine("i too have commited this");
         }
     }
 }
