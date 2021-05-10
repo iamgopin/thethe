@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("ok");
             Console.WriteLine("pp");
+               Console.WriteLine("ok");
+            Console.WriteLine("pp");
         }
     }
 }
